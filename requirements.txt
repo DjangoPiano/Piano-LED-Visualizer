@@ -1,4 +1,4 @@
-RPi.GPIO
+pyGPIO2.gpio
 webcolors
 psutil
 mido
